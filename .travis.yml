@@ -25,3 +25,4 @@ deploy:
   app: devopslab-lucabelezal
   on:
       branch: main
+
